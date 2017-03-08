@@ -26,8 +26,8 @@
 
 <link href="<c:url value="/resources/fonts/css/font-awesome.css" />"
 	rel="stylesheet" type="text/css" />
-<link href="<c:url value="/resources/css/api/web.font.css" />"
-	rel="stylesheet" type="text/css" />
+<%-- <link href="<c:url value="/resources/css/api/web.font.css" />"
+	rel="stylesheet" type="text/css" /> --%>
 
 
 <!-- API JS -->

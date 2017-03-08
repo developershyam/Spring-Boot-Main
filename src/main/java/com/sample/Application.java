@@ -6,7 +6,7 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
 
 /**
- * This is main class everything starts from here.
+ * This is application's main class or entry point for spring boot.
  * 
  * @author shyam.pareek
  *
